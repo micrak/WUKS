@@ -1,3 +1,5 @@
-1. [Manual](./src/wuks/wuks/Manual.md)
+Windows Update Killer Service (WUKS)
 
-2. [Releases](https://github.com/micrak/WUKS/releases)
+1. The most current manual is available [here](./src/wuks/wuks/Manual.md).
+
+2. Releases are available [here](https://github.com/micrak/WUKS/releases).
